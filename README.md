@@ -1,1 +1,1 @@
-# learn_python_spanish_guide
+# Notas de Estudio de Python: Guía Completa
