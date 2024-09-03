@@ -6,7 +6,6 @@ Los recursos aquí recopilados son contenidos encontrados en internet. No consid
 
 
 ### CURSOS INTERACTIVOS 
-
-#### - [Curso para principiantes en Python](https://learn.microsoft.com/es-es/training/paths/beginner-python/) 📚
-#### - [Video tutorial de Python en YouTube](https://www.youtube.com/watch?v=Kp4Mvapo5kc&t=30151s) 🎥
+- [Curso para principiantes en Python](https://learn.microsoft.com/es-es/training/paths/beginner-python/) 📚
+- [Video tutorial de Python en YouTube](https://www.youtube.com/watch?v=Kp4Mvapo5kc&t=30151s) 🎥
 
