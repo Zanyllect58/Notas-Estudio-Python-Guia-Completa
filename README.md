@@ -4,5 +4,12 @@ Los recursos aquí recopilados son contenidos encontrados en internet. No consid
 
 ## PRIMEROS PASOS - PYTHON
 
-### [Curso para principiantes en Python](https://learn.microsoft.com/es-es/training/paths/beginner-python/)
+
+### CURSOS INTERACTIVOS 
+
+#### [Curso para principiantes en Python](https://learn.microsoft.com/es-es/training/paths/beginner-python/)
+
+### VIDEOS
+
+#### [Video tutorial de Python en YouTube](https://www.youtube.com/watch?v=Kp4Mvapo5kc&t=30151s)
 
